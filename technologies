@@ -1,1 +1,15 @@
 
+www.victoria.craigslist.com
+VIA What Runs:
+
+Web Server - Apache: 
+  Description: free, open source, web server, maintained by community of developers, runs under a suitable multitasking OS.
+  
+JavaScript Frameworks - jQuery 
+  Desciption: JS library, consise and fast
+  
+Dev Tools: - HTML5 Shiv
+  Description: JS workaround, allows for styling of HTML elements in Internet Explorer (versions earlier than 9)
+  
+Font - Font: Arial; Font Family: Arial, Sans Serif
+  Description: CSS font used by craigslist 
